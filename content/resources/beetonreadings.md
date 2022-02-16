@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-481-victorian-literature-and-culture-spring-2003/a9ddce357bf88a5845a29413cfcd30b9_beetonreadings.pdf
+file: /media/courses/21l-481-victorian-literature-and-culture-spring-2003/a9ddce357bf88a5845a29413cfcd30b9_beetonreadings.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: beetonreadings.pdf
 uid: a9ddce35-7bf8-8a58-45a2-9413cfcd30b9
