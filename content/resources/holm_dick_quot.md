@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a79b72d0-9c80-eda2-ccd0-9944e213bd91
 resourcetype: Document
 title: holm_dick_quot.pdf
 uid: e2777ede-85eb-7dd2-35db-8290464da37e

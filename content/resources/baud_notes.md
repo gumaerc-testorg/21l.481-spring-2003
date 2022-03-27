@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a79b72d0-9c80-eda2-ccd0-9944e213bd91
 resourcetype: Document
 title: baud_notes.pdf
 uid: 8ccedd00-c7a5-e7b1-b9cd-741c0ae89dae

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a79b72d0-9c80-eda2-ccd0-9944e213bd91
 resourcetype: Document
 title: ten_in_mem.pdf
 uid: 391f19cd-051a-6a98-0fbd-60ae5731efd9

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a79b72d0-9c80-eda2-ccd0-9944e213bd91
 resourcetype: Document
 title: sher_holm_read.pdf
 uid: ffb8d992-8c57-251c-866d-62a5a8a44aa2

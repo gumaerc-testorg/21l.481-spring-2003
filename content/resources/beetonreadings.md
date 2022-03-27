@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a79b72d0-9c80-eda2-ccd0-9944e213bd91
 resourcetype: Document
 title: beetonreadings.pdf
 uid: a9ddce35-7bf8-8a58-45a2-9413cfcd30b9
