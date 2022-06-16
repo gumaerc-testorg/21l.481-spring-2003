@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21l-481-victorian-literature-and-culture-spring-2003/0674759241fc4794a3f83918be58b3bd_dur_expts.pdf
+file: /courses/21l-481-victorian-literature-and-culture-spring-2003/0674759241fc4794a3f83918be58b3bd_dur_expts.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
