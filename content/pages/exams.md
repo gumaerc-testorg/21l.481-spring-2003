@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the midterm exam for the course.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: e82aeaef-0538-4891-4633-9ffdd9315105
 ---

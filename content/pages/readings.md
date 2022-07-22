@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides bibliographic citations of required texts and additional
+  material.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: a79b72d0-9c80-eda2-ccd0-9944e213bd91
 ---
@@ -55,7 +60,7 @@ Introduction: The Victorian Period
  
 {{< tdclose >}}
 {{< tdopen >}}
-Victorian England (c.1837-1901): Key Dates ([PDF]({{< baseurl >}}/resources/victorian_england))
+Victorian England (c.1837-1901): Key Dates ({{% resource_link c3d51cf2-bf05-0177-5f16-4ec9129dffd3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -195,11 +200,11 @@ John Stuart Mill
 _On Liberty._
 {{< tdclose >}}
 {{< tdopen >}}
-Bentham and Mill Excerpts ([PDF]({{< baseurl >}}/resources/ben_mill_expts))  
+Bentham and Mill Excerpts ({{% resource_link 343a47ad-4ebb-71b3-5167-2e7bbbee632a "PDF" %}})  
   
-Duty Quote ([PDF]({{< baseurl >}}/resources/dutyquote))  
+Duty Quote ({{% resource_link 38f484ac-3be6-2028-e35b-2715329913d1 "PDF" %}})  
   
-Mill Subjection Quotes ([PDF]({{< baseurl >}}/resources/millsub_quot))
+Mill Subjection Quotes ({{% resource_link 5474b13f-8853-bf88-f897-5463c6226d8b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -271,7 +276,7 @@ _London Labour and the London Poor._
 Excerpts from _The Book of Household Management._
 {{< tdclose >}}
 {{< tdopen >}}
-Beeton Readings ([PDF]({{< baseurl >}}/resources/beetonreadings))
+Beeton Readings ({{% resource_link a9ddce35-7bf8-8a58-45a2-9413cfcd30b9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -294,7 +299,7 @@ _The Book of Household Management._
 _Bleak House_ #7. (Chapters 20-22)
 {{< tdclose >}}
 {{< tdopen >}}
-Holmes and Dickens Quotes ([PDF]({{< baseurl >}}/resources/holm_dick_quot))
+Holmes and Dickens Quotes ({{% resource_link e2777ede-85eb-7dd2-35db-8290464da37e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -309,9 +314,9 @@ Alfred, Lord Tennyson
 "Ulysses," and "Tithonus."
 {{< tdclose >}}
 {{< tdopen >}}
-Tennyson Excerpts ([PDF]({{< baseurl >}}/resources/ten_excpts))  
+Tennyson Excerpts ({{% resource_link 0b23dba9-af78-489a-50ea-77e029845251 "PDF" %}})  
   
-Tennyson In Memoriam ([PDF]({{< baseurl >}}/resources/ten_in_mem))
+Tennyson In Memoriam ({{% resource_link 391f19cd-051a-6a98-0fbd-60ae5731efd9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -364,9 +369,9 @@ _In Memoriam A. H. H._
 _Bleak House_ #9. (Chapters 26-29)
 {{< tdclose >}}
 {{< tdopen >}}
-Baudelaire ([PDF]({{< baseurl >}}/resources/baud_notes))  
+Baudelaire ({{% resource_link 8ccedd00-c7a5-e7b1-b9cd-741c0ae89dae "PDF" %}})  
   
-Durkheim ([PDF]({{< baseurl >}}/resources/dur_expts))
+Durkheim ({{% resource_link 06747592-41fc-4794-a3f8-3918be58b3bd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -426,7 +431,7 @@ Arthur Conan Doyle
 Sherlock Holmes Stories and Excerpts.
 {{< tdclose >}}
 {{< tdopen >}}
-Sherlock Holmes Readings ([PDF]({{< baseurl >}}/resources/sher_holm_read))
+Sherlock Holmes Readings ({{% resource_link ffb8d992-8c57-251c-866d-62a5a8a44aa2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -475,9 +480,9 @@ Dickens (cont.)
 _Bleak House._
 {{< tdclose >}}
 {{< tdopen >}}
-Bleak House Reviews ([PDF]({{< baseurl >}}/resources/bleakhou_rev))  
+Bleak House Reviews ({{% resource_link d973f584-02ed-fd3b-efcb-e7fa9f1b77b0 "PDF" %}})  
   
-National Allegory Quotes ([PDF]({{< baseurl >}}/resources/nat_alleg_quot))
+National Allegory Quotes ({{% resource_link 3c7d1b05-4ee4-8a67-9804-b95b348ab846 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
