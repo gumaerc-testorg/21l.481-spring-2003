@@ -5,6 +5,7 @@ file: /courses/21l-481-victorian-literature-and-culture-spring-2003/d7ec6062bb29
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 481_paper_1.pdf
 uid: d7ec6062-bb29-c025-ceb4-d52ed5c8b322
 ---
 Guidelines for acceptable papers and suggested paper topics.
-

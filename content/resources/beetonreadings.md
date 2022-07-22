@@ -5,6 +5,7 @@ file: /courses/21l-481-victorian-literature-and-culture-spring-2003/a9ddce357bf8
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection

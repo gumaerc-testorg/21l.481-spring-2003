@@ -6,6 +6,7 @@ file: /courses/21l-481-victorian-literature-and-culture-spring-2003/d973f58402ed
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: bleakhou_rev.pdf
 uid: d973f584-02ed-fd3b-efcb-e7fa9f1b77b0
 ---
 Comments from John Forster, Henry Fothergill Chorley, George Brimley and John Ruskin.
-

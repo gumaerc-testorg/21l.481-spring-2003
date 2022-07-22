@@ -5,6 +5,7 @@ file: /courses/21l-481-victorian-literature-and-culture-spring-2003/0b23dba9af78
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ten_excpts.pdf
 uid: 0b23dba9-af78-489a-50ea-77e029845251
 ---
 Page numbers of assigned excerpts.
-

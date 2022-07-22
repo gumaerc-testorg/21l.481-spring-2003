@@ -7,6 +7,7 @@ file: /courses/21l-481-victorian-literature-and-culture-spring-2003/343a47ad4ebb
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: ben_mill_expts.pdf
 uid: 343a47ad-4ebb-71b3-5167-2e7bbbee632a
 ---
 Opening sentences from Jeremy Bentham, An Introduction to the Principles of Morals and Legislation (1789); From John Stuart Mill?s essay on Jeremy Bentham; From Mill?s Autobiography, ch. 5, ?A Crisis in my Mental History?
-

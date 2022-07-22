@@ -5,6 +5,7 @@ file: /courses/21l-481-victorian-literature-and-culture-spring-2003/010ab708dab2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 481_paper_2.pdf
 uid: 010ab708-dab2-5668-605b-fd442a96dd48
 ---
 Suggested topics.
-
