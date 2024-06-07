@@ -2,6 +2,7 @@
 content_type: resource
 description: Suggested topics.
 file: /courses/21l-481-victorian-literature-and-culture-spring-2003/010ab708dab25668605bfd442a96dd48_481_paper_2.pdf
+file_size: 70096
 file_type: application/pdf
 learning_resource_types:
 - Assignments
