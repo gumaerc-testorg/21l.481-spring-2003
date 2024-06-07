@@ -2,6 +2,7 @@
 content_type: resource
 description: Excerpts from Dicken's "Dombey and Son" and "Pickwick Papers."
 file: /courses/21l-481-victorian-literature-and-culture-spring-2003/e2777ede85eb7dd235db8290464da37e_holm_dick_quot.pdf
+file_size: 72942
 file_type: application/pdf
 learning_resource_types:
 - Readings
