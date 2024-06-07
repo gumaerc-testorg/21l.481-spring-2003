@@ -2,6 +2,7 @@
 content_type: resource
 description: Associations.
 file: /courses/21l-481-victorian-literature-and-culture-spring-2003/3c7d1b054ee48a679804b95b348ab846_nat_alleg_quot.pdf
+file_size: 70397
 file_type: application/pdf
 learning_resource_types:
 - Readings
