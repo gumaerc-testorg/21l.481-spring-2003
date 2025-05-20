@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Page numbers of assigned excerpts.
-file: /ol-ocw-studio-app/courses/21l-481-victorian-literature-and-culture-spring-2003/0b23dba9af78489a50ea77e029845251_ten_excpts.pdf
+file: /courses/21l-481-victorian-literature-and-culture-spring-2003/0b23dba9af78489a50ea77e029845251_ten_excpts.pdf
 file_size: 54397
 file_type: application/pdf
 learning_resource_types:
