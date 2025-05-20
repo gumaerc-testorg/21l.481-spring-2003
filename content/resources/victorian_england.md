@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Key dates.
-file: /ol-ocw-studio-app/courses/21l-481-victorian-literature-and-culture-spring-2003/c3d51cf2bf0501775f164ec9129dffd3_victorian_england.pdf
+file: /courses/21l-481-victorian-literature-and-culture-spring-2003/c3d51cf2bf0501775f164ec9129dffd3_victorian_england.pdf
 file_size: 52964
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21l-481-victorian-literature-and-culture-spring-2003/a9ddce357bf88a5845a29413cfcd30b9_beetonreadings.pdf
+file: /courses/21l-481-victorian-literature-and-culture-spring-2003/a9ddce357bf88a5845a29413cfcd30b9_beetonreadings.pdf
 file_size: 72996
 file_type: application/pdf
 learning_resource_types:
