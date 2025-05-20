@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines for acceptable papers and suggested paper topics.
-file: /ol-ocw-studio-app/courses/21l-481-victorian-literature-and-culture-spring-2003/d7ec6062bb29c025ceb4d52ed5c8b322_481_paper_1.pdf
+file: /courses/21l-481-victorian-literature-and-culture-spring-2003/d7ec6062bb29c025ceb4d52ed5c8b322_481_paper_1.pdf
 file_size: 75224
 file_type: application/pdf
 learning_resource_types:
