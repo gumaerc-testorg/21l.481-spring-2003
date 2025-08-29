@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21l-481-victorian-literature-and-culture-spring-2003/0674759241fc4794a3f83918be58b3bd_dur_expts.pdf
+file: /ol-ocw-studio-app/courses/21l-481-victorian-literature-and-culture-spring-2003/0674759241fc4794a3f83918be58b3bd_dur_expts.pdf
 file_size: 76509
 file_type: application/pdf
 learning_resource_types:

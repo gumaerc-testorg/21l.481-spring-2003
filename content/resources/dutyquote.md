@@ -2,7 +2,7 @@
 content_type: resource
 description: a few examples, to be contrasted with the behavior of Tom Jarndyce, Mr.
   Gridley, Nemo (presumably), and ? perhaps ? Jeremy Bentham and John Stuart Mill.
-file: /courses/21l-481-victorian-literature-and-culture-spring-2003/38f484ac3be62028e35b2715329913d1_dutyquote.pdf
+file: /ol-ocw-studio-app/courses/21l-481-victorian-literature-and-culture-spring-2003/38f484ac3be62028e35b2715329913d1_dutyquote.pdf
 file_size: 71027
 file_type: application/pdf
 learning_resource_types:
