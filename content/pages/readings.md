@@ -11,17 +11,17 @@ uid: a79b72d0-9c80-eda2-ccd0-9944e213bd91
 ---
 ## Required Texts
 
-Carroll, Lewis. *Alice’s Adventures in Wonderland*. New York: Puffin Books, 1984. ISBN: 0140350381. ([Download](http://www.gutenberg.org/ebooks/928) a version from Project Gutenberg)
+Carroll, Lewis. *Alice’s Adventures in Wonderland*. New York: Puffin Books, 1984. ISBN: 0140350381. ({{% resource_link "50356e4c-2c72-44c9-ac0d-01498b0d977d" "Download" %}} a version from Project Gutenberg)
 
-–––. *Through the Looking Glass*. New York: Puffin Books, 1996. ISBN: 0140367098. ([Download](http://www.gutenberg.org/ebooks/12) a version from Project Gutenberg)
+–––. *Through the Looking Glass*. New York: Puffin Books, 1996. ISBN: 0140367098. ({{% resource_link "c1b26659-ee2b-4de9-ba10-935252d3ff68" "Download" %}} a version from Project Gutenberg)
 
-Dickens, Charles. *Bleak House*. Oxford: Oxford University Press, 1987. ISBN: 0192545035. ([Download](http://www.gutenberg.org/ebooks/1023) a version from Project Gutenberg)
+Dickens, Charles. *Bleak House*. Oxford: Oxford University Press, 1987. ISBN: 0192545035. ({{% resource_link "e1406934-804d-4078-a901-7781f1d71762" "Download" %}} a version from Project Gutenberg)
 
-Gaskell, Elizabeth. *Mary Barton*. New York: Penguin Books, 1970. ISBN: 0140430539. ([Download](http://www.gutenberg.org/ebooks/2153) a version from Project Gutenberg)
+Gaskell, Elizabeth. *Mary Barton*. New York: Penguin Books, 1970. ISBN: 0140430539. ({{% resource_link "f9a8134d-c759-4581-a1c2-b36ec9d4f22e" "Download" %}} a version from Project Gutenberg)
 
-Mayhew, Henry. *London Labour and the London Poor*. New York: Penguin, 1986. ISBN: 0140432418. (View and [download](http://etext.lib.virginia.edu/toc/modeng/public/MayLond.html) a version from the University of Virginia’s Electronic Text Center)
+Mayhew, Henry. *London Labour and the London Poor*. New York: Penguin, 1986. ISBN: 0140432418. (View and {{% resource_link "c50d1199-bfe6-4f97-a485-fde616bb2a8d" "download" %}} a version from the University of Virginia’s Electronic Text Center)
 
-Mill, John Stuart. *On Liberty*. New York: Bobbs-Merrill, 1956. ISBN: 0802053459. ([Download](http://www.bartleby.com/25/2/) a version from Bartleby.com)
+Mill, John Stuart. *On Liberty*. New York: Bobbs-Merrill, 1956. ISBN: 0802053459. ({{% resource_link "4dbe459e-189a-435b-b2a3-0f0fdce62884" "Download" %}} a version from Bartleby.com)
 
 Rossi, Alice S. *Essays on Sex Equality*. Chicago: Chicago University Press, 1970. ISBN: 0226525465. (John Stuart Mill and Harriet Taylor Mill)
 
